@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ardubev_16/Repos/unitn/unitn-rl/lez_20221012/project_1/project_1.sim/sim_1/synth/timing/xsim/testAdder4_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder4
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/ardubev_16/Repos/unitn/unitn-rl/lez_20221012/project_1/project_1.srcs/sim_1/new/testAdder4.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'testAdder4'

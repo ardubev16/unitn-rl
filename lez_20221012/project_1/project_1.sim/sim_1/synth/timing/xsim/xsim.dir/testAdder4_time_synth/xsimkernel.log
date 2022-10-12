@@ -1,0 +1,7 @@
+Running: xsim.dir/testAdder4_time_synth/xsimk -simmode gui -wdb testAdder4_time_synth.wdb -simrunnum 0 -socket 49173
+Design successfully loaded
+Design Loading Memory Usage: 28884 KB (Peak: 29476 KB)
+Design Loading CPU Usage: 20 ms
+Simulation completed
+Simulation Memory Usage: 110620 KB (Peak: 168152 KB)
+Simulation CPU Usage: 40 ms
