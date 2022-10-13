@@ -1,0 +1,61 @@
+$date
+  Thu Oct 13 12:04:20 2022
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module numeric_std $end
+$upscope $end
+$scope module testbanch $end
+$var reg 8 ! a[7:0] $end
+$var reg 16 " s8[15:0] $end
+$var reg 4 # a4[3:0] $end
+$var reg 8 $ s4[7:0] $end
+$scope module add32 $end
+$var reg 8 % a[7:0] $end
+$var reg 16 & s[15:0] $end
+$upscope $end
+$scope module add8 $end
+$var reg 4 ' a[3:0] $end
+$var reg 8 ( s[7:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+b00000000 !
+b0000000000000000 "
+bUUUU #
+bXXXXXXXX $
+b00000000 %
+b0000000000000000 &
+bUUUU '
+bXXXXXXXX (
+#10000000
+b00100011 !
+b0000010011001001 "
+b00100011 %
+b0000010011001001 &
+#20000000
+b00010010 !
+b0000000101000100 "
+b00010010 %
+b0000000101000100 &
+#30000000
+b11101110 !
+b11101110 %
+#40000000
+b01111000 !
+b0011100001000000 "
+b01111000 %
+b0011100001000000 &
+#50000000
+b10001000 !
+b10001000 %
+#60000000
